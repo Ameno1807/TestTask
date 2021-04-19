@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">TestTask</string>
+    <string name="favorites">Мой список</string>
+    <string name="search">Главная</string>
+    <string name="shop">Магазины</string>
+    <string name="profile">Профиль</string>
+    <string name="cart">Корзина</string>
+    <string name="titleText">Поиск товаров</string>
+    <string name="title_limited_offer">Предложение ограничено</string>
+    <string name="product_name">Керамогранит</string>
+    <string name="product_price">730,35 р/шт</string>
+    <string name="catalog_name">Каталог</string>
+    <string name="title_best_price">Лучшая цена</string>
+    <string name="Search">Поиск</string>
+</resources>
